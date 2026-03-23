@@ -22,3 +22,5 @@ This project demonstrates the use of machine learning techniques to solve real-w
 
 ## 📸 Output
 (Add your output screenshot here)
+![Output](output.png)
+
