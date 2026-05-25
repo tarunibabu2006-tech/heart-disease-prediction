@@ -8,6 +8,8 @@ An end-to-end Machine Learning project that predicts the likelihood of heart dis
 
 ```
 🔗 Live App: https://heart-disease-prediction-bugvoundrhkv4bg4ev7q3h.streamlit.app/
+
+---
 ```
 
   
