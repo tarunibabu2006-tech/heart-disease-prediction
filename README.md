@@ -102,7 +102,7 @@ streamlit run app.py
 
 # 📸 Application Preview
 
-(Add screenshot here)
+![App Screenshot](output.png)
 
 ---
 
